@@ -3,6 +3,7 @@
 This is an application built using React, a front-end javascript library.
 The weather app is interactive and show charts using the Sparklines module
 on the react library. It clean to read and understands.
+
 ---
 All weather data is from the open weather api. A free open source api that 
 presents a Five day focust with 3 hour interval during the day.
