@@ -39,4 +39,4 @@ npm start
 You can visit this page on any browser today and operate the app on production environment
 
 Thank you for your interest. Enjoy!!!
-![Weather App](https://herokuapp.com/)
+[Weather App](https://herokuapp.com/)
